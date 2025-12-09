@@ -1,0 +1,20 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.dvi
+*.bbl
+*.blg
+
+# Python artifacts (if any scripts are kept)
+__pycache__/
+*.pyc
+
+# Editor temporary files
+*.swp
+*~
