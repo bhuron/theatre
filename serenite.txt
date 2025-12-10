@@ -65,9 +65,9 @@ Sérénité modèle confort
 
 **LUI:** Non, je ne dis rien. Moi, quand on me traite comme ça, je me tais. Bonsoir !
 
-**ELLE:** Ecoute, personne ne t'a traité d'emmerdeur !
+**ELLE:** Écoute, personne ne t'a traité d'emmerdeur !
 
-**LUI:** Tiens donc ! A peine!
+**LUI:** Tiens donc ! À peine!
 
 **ELLE:** Pas du tout. C'est toi qui l'as dit. Nuance !
 
@@ -131,7 +131,7 @@ Sérénité modèle confort
 
 (Il sort.)
 
-**ELLE:** Mais... Ne fouille pas dans mes affaires. Qu'est-ce que tu chèrches ?
+**ELLE:** Mais... Ne fouille pas dans mes affaires. Qu'est-ce que tu cherches ?
 
 **LUI:** (En coulisse.) La notice.
 
@@ -159,7 +159,7 @@ Sérénité modèle confort
 
 **LUI:** Dis donc, tu vas arrêter de me casser les pieds ? J'en ai eu pour plus de trois mille cinq cents balles de sérénité, avec ce plumard, que TU as choisi, permets-moi de te le rappeler, et j'aimerais bien profiter tranquillement de MON investissement.
 
-**ELLE:** Très bien. Eteins.
+**ELLE:** Très bien. Éteins.
 
 **LUI:** Non, je lis...
 
@@ -173,7 +173,7 @@ Sérénité modèle confort
 
 **ELLE:** (Sous l'oreiller :) N'empêche, il est dur!
 
-**LUI:** C'est excellent pour la colonne... Qu'est-ce qu'ils ont encadré, là? Tu peux lire, s'il te plaît, moi, sans mes lunettes... (Elle ne réagit pas.) « Attention, les qualités et densités des composants de base varient selon la gamme qualitative de nos produits. Nous, en tout cas, on a tapé dans ce qu'il y a de mieux...
+**LUI:** C'est excellent pour la colonne... Qu'est-ce qu'ils ont encadré, là? Tu peux lire, s'il te plaît, moi, sans mes lunettes... (Elle ne réagit pas.) « Attention, les qualités et densités des composants de base varient selon la gamme qualitative de nos produits. » Nous, en tout cas, on a tapé dans ce qu'il y a de mieux...
 
 **ELLE:** Mais alors, question densité des composants, on s'est carrément fait couillonner!
 
@@ -187,15 +187,15 @@ Sérénité modèle confort
 
 **LUI:** Tant mieux. Sur ce, je crois que je vais bien dormir...
 
-**ELLE:** C'est ça. Eteins. (Il éteint.) Merci.
+**ELLE:** C'est ça. Éteins. (Il éteint.) Merci.
 
 **LUI:** De rien. Tu me fais un petit bisou?
 
-**ELLE:** Rhôôô! Ecoute!
+**ELLE:** Rhôôô! Écoute!
 
 **LUI:** Allez...
 
-**ELLE:** (Soupir excédé. Bisou.)
+**ELLE:** (Soupir excédé.) Bisou.
 
 (Temps.)
 
@@ -233,23 +233,19 @@ Sérénité modèle confort
 
 **ELLE:** J'ai PEUR, je te dis ! Ces bestioles, ça me rend...
 
-**LUI:** Ces « bestioles » appartiennent à l'ordre des aranéides, lui-même inclus dans la classe des arachnides, laquelle comprend par ailleurs, outre les aranéides, les scorpionides et les acariens, les poux quoi. La caractéristique majeure distinguant l'araignée des autres groupes de chélifères réside dans cet abdomen non segmenté que tu peux observer là, très nettement séparé du céphalothorax.
+**LUI:** Ces « bestioles » appartiennent à l'ordre des aranéides, lui-même inclus dans la classe des arachnides.
 
 **ELLE:** Arrête, je ne me sens pas bien.
 
 **LUI:** Cela dit, dans la sous-classe des araignées, si les représentants des trois ordres sont également venimeux, puisque également pourvus de crochets, deux seulement présentent un danger mortel...
 
-**ELLE:** Elle a bougé !
-
-**LUI:** Mais le troisième, celui des aranéomorphes, qui nous intéresse plus particulièrement, car c'est manifestement à celui-ci qu'appartient ce superbe spécimen, femelle si je ne m'abuse, le troisième donc, est à la fois le plus répandu et le plus inoffensif. De plus, araignée du soir espoir, tu vois bien que tu n'as rien à...
-
-**ELLE:** (En pleurant.) Minou... Je... Tu... Je te préviens, si tu ne tues pas immédiatement cet arachnoïde, je...
+**ELLE:** Elle a bougé ! (En pleurant.) Minou... Je... Tu... Je te préviens, si tu ne tues pas immédiatement cet arachnoïde, je...
 
 **LUI:** Arachnide, ma chérie, arachnide.
 
 **ELLE:** Cette... saloperie, tu risques de le regretter!
 
-**LUI:** Sais-tu que d'éminentes personnalités du monde scientifique s'accordent à reconnaître que certaines personnes à sensibilité délicate focalisent volontiers leurs fantasmes sur un animal quelconque, les plus répandus se trouvant être l'araignée, le serpent, le rat, les rongeurs en général. Ainsi, une pauvre créature innocente concentre sur elle l'essentiel des angoisses, et donc de l'agressivité du sujet.
+**LUI:** Mais le troisième, celui des aranéomorphes, qui nous intéresse plus particulièrement, car c'est manifestement à celui-ci qu'appartient ce superbe spécimen, femelle si je ne m'abuse, le troisième donc, est à la fois le plus répandu et le plus inoffensif. De plus, araignée du soir espoir, tu vois bien que tu n'as rien à...
 
 (Elle se lève et sort.)
 
